@@ -1,6 +1,6 @@
 {
   "name": "branchd",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Git local branch delete tool.",
   "preferGlobal": "true",
   "scripts": {
